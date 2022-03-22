@@ -4,7 +4,6 @@
  * https://opensource.org/licenses/MIT
  */
 
-
 import app.CoffeeMachine;
 
 import java.util.Scanner;
